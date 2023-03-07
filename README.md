@@ -5,16 +5,20 @@ Project "recipes" provides an opportunity to test my acquired knowledge of HTML 
 
 The workflow using git for version control goes like:
 
-move files and directories to the stage zone:
+move files and directories to the stage area:
 
     git add .
     git add <'fileName'>
 
-git commit
+commit files from stage area:
 
-git push
+    git commit
+
+push files to github:
+
+    git push
 
 To check what's up:
 
-git status
-git log
+    git status
+    git log
