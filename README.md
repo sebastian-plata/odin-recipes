@@ -52,7 +52,7 @@ Cons:
 
     - Quality is still reduced: for visual sites like photography or graphic design portfolios you want your visual quality at maximum.
 
-guide to img compresion: https://shortpixel.com/blog/complete-guide-image-compression-reduce-image-sizes-faster-sites/
+guide to img compression: https://shortpixel.com/blog/complete-guide-image-compression-reduce-image-sizes-faster-sites/
 
 
 -------------------------------------------------------------------
