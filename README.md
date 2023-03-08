@@ -26,7 +26,7 @@ To check what's up:
 
 -------------------------------------------------------------------
 
-Usign .webp over .jpg:
+Using '.webp' over '.jpg':
 
 WebP images are usually smaller than their counterparts, but with the same quality, thanks to their superior compression. That means using WebP images for your own site will (usually) make it run faster and reduce your data storage at the same time.
 
