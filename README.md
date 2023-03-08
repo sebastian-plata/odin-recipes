@@ -24,7 +24,9 @@ To check what's up:
     git status
     git log
 
+
 -------------------------------------------------------------------
+
 
 Using '.webp' over '.jpg':
 
@@ -51,3 +53,17 @@ Cons:
     - Quality is still reduced: for visual sites like photography or graphic design portfolios you want your visual quality at maximum.
 
 guide to img compresion: https://shortpixel.com/blog/complete-guide-image-compression-reduce-image-sizes-faster-sites/
+
+
+-------------------------------------------------------------------
+
+
+Viewing a project from the web:
+
+GitHub allows you to publish web projects directly from a GitHub repository. Doing this will allow you to access your project from:
+ 
+    your-github-username.github.io/your-github-repo-name
+
+Follow: settings/pages/
+
+then: change 'Branch' from "none" to "main" and click "Save"
